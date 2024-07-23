@@ -1,0 +1,25 @@
+{
+  "student":[
+      {
+          "id":"1",
+          "name":"gaurang",
+          "age":19
+      },
+      {
+          "id":"2",
+          "name":"siddharth",
+          "age":21
+      },
+      {
+          "id":"3",
+          "name":"jaydip",
+          "age":19
+      },
+      {
+          "id":"4",
+          "name":"mohit",
+          "age":23
+
+      }
+  ]
+}
